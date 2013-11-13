@@ -13,6 +13,39 @@
 	<key>settings</key>
 	<array>
 		<dict>
+		  <key>name</key>
+		  <string>GitGutter deleted</string>
+		  <key>scope</key>
+		  <string>markup.deleted.git_gutter</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#ce3d2e</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>GitGutter inserted</string>
+		  <key>scope</key>
+		  <string>markup.inserted.git_gutter</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#66FF33</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>GitGutter changed</string>
+		  <key>scope</key>
+		  <string>markup.changed.git_gutter</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#FFFF00</string>
+		  </dict>
+		</dict>
+		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>

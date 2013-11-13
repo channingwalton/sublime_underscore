@@ -1,5 +1,7 @@
-sublime_underscore SublimeText theme
+sublime_underscore
 ==================
+
+A theme for Sublime Text
 
 Install the theme as follows
 

@@ -3,6 +3,8 @@ sublime_underscore
 
 A theme for Sublime Text
 
+![](screenshot.jpg)
+
 Install the theme as follows
 
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`

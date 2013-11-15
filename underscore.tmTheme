@@ -852,7 +852,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.ir_black</string>
+	<string>theme.dark.underscore_black</string>
 	<key>comment</key>
 	<string>based on IR_Black by Todd Werth</string>
 </dict>

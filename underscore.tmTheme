@@ -357,7 +357,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -368,7 +368,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFFFFF0F</string>
+				<string>#FFFFFF</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
@@ -746,7 +746,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FEE09C12</string>
+				<string>#FEE09C</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
